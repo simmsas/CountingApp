@@ -1,0 +1,15 @@
+﻿REQUIREMENTS
+
+1. Write a C# console application which reads a text file as input and prints total
+character and word counts as output.
+
+
+2. Count and Print all number characters. But read it from TextNumbers.txt
+
+3.Application should also have a set of test suites written with chosen xUnit framework (preferably – NUnit)
+for common values and edge cases. Visual Studio version, project type,
+code formatting and casing style option have no constraints.
+ 
+
+
+Good luck!
